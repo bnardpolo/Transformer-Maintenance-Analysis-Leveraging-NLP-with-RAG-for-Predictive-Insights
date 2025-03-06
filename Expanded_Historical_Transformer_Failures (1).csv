@@ -1,0 +1,101 @@
+Transformer ID,Failure Description,Maintenance Action,Hydrogen (ppm),Methane (ppm),CO (ppm),CO2 (ppm),Ethylene (ppm),Ethane (ppm),Acetylene (ppm),DBDS (ppm),Power Factor,Interfacial Voltage (kV),Dielectric Rigidity (kV),Water Content (ppm),Health Index
+TX-1,"Sudden spike in nitrogen and methane, potential oil degradation.",Lowered transformer load and conducted infrared thermography.,8711,732,392,2208,844,222,545,95,1.1,41,43,17,86.0
+TX-2,DGA analysis suggests insulation failure. High CO2 and Acetylene.,"Conducted resistance and capacitance tests, no major issue found.",2660,4971,184,3184,719,235,2243,79,2.12,56,41,39,97.1
+TX-3,"CO levels rising gradually, potential core insulation wear.","Conducted resistance and capacitance tests, no major issue found.",4744,2568,361,2453,258,163,1724,82,4.59,52,60,3,76.6
+TX-4,DGA analysis suggests insulation failure. High CO2 and Acetylene.,Lowered transformer load and conducted infrared thermography.,8408,7714,331,4279,728,188,588,100,3.9,38,44,45,78.1
+TX-5,High levels of Hydrogen and Methane indicate partial discharge.,Lowered transformer load and conducted infrared thermography.,12465,8483,170,2321,831,316,2255,8,3.12,60,48,5,85.2
+TX-6,DGA analysis suggests insulation failure. High CO2 and Acetylene.,Lowered transformer load and conducted infrared thermography.,6434,1336,388,1296,440,331,1550,20,1.46,56,43,40,56.2
+TX-7,"Power factor deterioration, possible transformer aging.","Transformer re-energized with minor repairs, long-term monitoring advised.",9742,8129,172,1545,215,212,2457,95,4.55,21,41,6,91.4
+TX-8,"Power factor deterioration, possible transformer aging.","Conducted resistance and capacitance tests, no major issue found.",7617,9704,189,1380,604,115,622,28,3.49,48,54,43,68.4
+TX-9,"Sudden spike in nitrogen and methane, potential oil degradation.",Routine inspection suggested early intervention.,7048,1774,331,746,400,242,2692,72,1.23,38,43,49,97.8
+TX-10,"CO levels rising gradually, potential core insulation wear.","Conducted resistance and capacitance tests, no major issue found.",10683,1148,420,4885,595,395,532,27,4.26,44,50,5,54.1
+TX-11,DGA analysis suggests insulation failure. High CO2 and Acetylene.,Routine inspection suggested early intervention.,8411,2741,182,1695,347,455,1198,44,1.94,43,58,34,88.7
+TX-12,Temperature anomalies suggest internal short-circuit.,"Transformer re-energized with minor repairs, long-term monitoring advised.",2988,9017,54,1173,584,161,2712,85,4.6,47,49,27,96.7
+TX-13,Temperature anomalies suggest internal short-circuit.,"Cooling system inspected and enhanced, reducing overheating risk.",11624,2445,375,1683,783,178,566,6,1.17,23,59,42,97.2
+TX-14,"Sudden spike in nitrogen and methane, potential oil degradation.",Lowered transformer load and conducted infrared thermography.,14435,4781,73,4159,756,105,927,93,2.38,41,47,46,51.6
+TX-15,"Power factor deterioration, possible transformer aging.","Insulation aging detected, transformer scheduled for replacement.",514,4641,191,749,727,315,343,0,2.52,41,52,46,75.5
+TX-16,High levels of Hydrogen and Methane indicate partial discharge.,Performed oil regeneration and gas extraction.,9000,824,35,1928,15,120,2576,17,3.72,39,49,28,72.3
+TX-17,High levels of Hydrogen and Methane indicate partial discharge.,"Cooling system inspected and enhanced, reducing overheating risk.",4913,3447,153,4316,545,174,2342,92,2.86,54,57,35,85.5
+TX-18,"Fluctuating interfacial voltage, potential arcing observed.","Cooling system inspected and enhanced, reducing overheating risk.",14863,9459,329,514,735,99,368,23,1.8,56,57,36,52.0
+TX-19,"CO levels rising gradually, potential core insulation wear.",Performed oil regeneration and gas extraction.,12777,8423,284,1573,387,348,1681,14,2.65,29,52,10,74.5
+TX-20,"Repeated gas level fluctuations, risk of multiple failures.",Performed oil regeneration and gas extraction.,628,4340,375,741,922,245,2409,69,1.86,34,55,10,82.6
+TX-21,"Repeated gas level fluctuations, risk of multiple failures.",Performed oil regeneration and gas extraction.,11615,9038,423,3578,561,459,1446,97,2.99,32,50,42,88.9
+TX-22,"CO levels rising gradually, potential core insulation wear.","Transformer re-energized with minor repairs, long-term monitoring advised.",3893,1818,363,4497,34,426,2124,70,3.54,56,43,3,77.3
+TX-23,"Repeated gas level fluctuations, risk of multiple failures.","Cooling system inspected and enhanced, reducing overheating risk.",8745,6620,70,1194,122,140,2149,93,4.68,32,58,0,58.1
+TX-24,"Power factor deterioration, possible transformer aging.","DGA re-analysis confirmed issue resolution, continued monitoring.",988,580,15,3667,411,69,282,90,4.67,22,57,1,53.6
+TX-25,"CO levels rising gradually, potential core insulation wear.","Transformer re-energized with minor repairs, long-term monitoring advised.",11094,5494,211,3912,477,269,2154,86,3.63,42,54,36,65.6
+TX-26,"CO levels rising gradually, potential core insulation wear.",Replaced insulation and monitored gas levels.,7578,9762,378,3398,416,162,2018,0,2.22,56,42,2,86.8
+TX-27,"Power factor deterioration, possible transformer aging.","Cooling system inspected and enhanced, reducing overheating risk.",8165,3470,40,4790,574,58,1823,1,2.51,22,46,8,70.7
+TX-28,Severe overheating detected. Ethylene and CO levels rising.,Lowered transformer load and conducted infrared thermography.,4842,5696,83,4050,490,362,116,95,1.83,53,57,35,92.7
+TX-29,"Fluctuating interfacial voltage, potential arcing observed.",Replaced insulation and monitored gas levels.,14297,404,273,4035,464,149,1349,39,1.37,49,58,6,54.4
+TX-30,"Repeated gas level fluctuations, risk of multiple failures.","Conducted resistance and capacitance tests, no major issue found.",14050,2503,390,4999,511,215,2847,33,1.12,28,42,15,65.1
+TX-31,"CO levels rising gradually, potential core insulation wear.","Cooling system inspected and enhanced, reducing overheating risk.",608,278,10,4331,713,453,2074,41,2.84,46,58,0,68.4
+TX-32,"Repeated gas level fluctuations, risk of multiple failures.","Cooling system inspected and enhanced, reducing overheating risk.",12042,6587,258,3426,999,70,27,45,2.16,37,54,43,60.5
+TX-33,DGA analysis suggests insulation failure. High CO2 and Acetylene.,"Transformer re-energized with minor repairs, long-term monitoring advised.",6130,6761,439,1515,79,233,2850,73,3.53,26,59,12,53.5
+TX-34,DGA analysis suggests insulation failure. High CO2 and Acetylene.,Performed oil regeneration and gas extraction.,1462,5661,139,767,48,137,1289,70,0.5,36,56,45,71.3
+TX-35,"CO levels rising gradually, potential core insulation wear.",Routine inspection suggested early intervention.,5064,2599,294,2398,101,11,961,43,0.96,51,53,20,98.7
+TX-36,"Power factor deterioration, possible transformer aging.",Performed oil regeneration and gas extraction.,12885,5696,157,2360,807,447,911,32,4.59,22,55,40,80.8
+TX-37,"Sudden spike in nitrogen and methane, potential oil degradation.","DGA re-analysis confirmed issue resolution, continued monitoring.",2082,1087,28,1949,216,278,1079,15,3.04,30,60,37,81.3
+TX-38,High levels of Hydrogen and Methane indicate partial discharge.,"DGA re-analysis confirmed issue resolution, continued monitoring.",12216,3386,259,3775,779,184,1006,29,2.14,35,52,15,68.7
+TX-39,High levels of Hydrogen and Methane indicate partial discharge.,Routine inspection suggested early intervention.,14427,225,83,1745,341,443,496,54,0.93,36,46,45,82.0
+TX-40,"Fluctuating interfacial voltage, potential arcing observed.",Replaced insulation and monitored gas levels.,14239,9705,188,1562,438,204,1493,61,2.67,39,59,4,84.9
+TX-41,"Repeated gas level fluctuations, risk of multiple failures.",Performed oil regeneration and gas extraction.,14727,4834,274,2002,566,229,1763,23,3.9,43,41,34,89.2
+TX-42,Temperature anomalies suggest internal short-circuit.,Lowered transformer load and conducted infrared thermography.,9737,5547,110,713,508,369,1933,65,4.7,50,45,13,81.8
+TX-43,"Repeated gas level fluctuations, risk of multiple failures.",Routine inspection suggested early intervention.,2488,3831,477,3434,299,489,1910,26,2.74,23,50,26,55.4
+TX-44,High levels of Hydrogen and Methane indicate partial discharge.,"Insulation aging detected, transformer scheduled for replacement.",4289,3873,69,4544,66,446,710,36,1.22,48,45,35,95.0
+TX-45,"Power factor deterioration, possible transformer aging.",Replaced insulation and monitored gas levels.,9119,3111,449,4238,333,379,2943,10,1.88,35,40,10,68.7
+TX-46,"Repeated gas level fluctuations, risk of multiple failures.",Performed oil regeneration and gas extraction.,2143,1749,332,3190,45,113,2249,6,1.55,31,46,17,88.5
+TX-47,"Repeated gas level fluctuations, risk of multiple failures.",Replaced insulation and monitored gas levels.,2165,3361,187,3970,997,485,1853,3,4.47,53,54,27,83.2
+TX-48,"CO levels rising gradually, potential core insulation wear.","Transformer re-energized with minor repairs, long-term monitoring advised.",4766,7446,216,1355,548,458,2198,74,1.25,31,54,0,72.3
+TX-49,Severe overheating detected. Ethylene and CO levels rising.,Carried out dielectric strength test and pressure relief.,14264,4933,243,1801,613,10,872,76,4.45,53,51,6,84.5
+TX-50,"Repeated gas level fluctuations, risk of multiple failures.",Performed oil regeneration and gas extraction.,9037,2809,102,3105,730,383,2509,63,4.08,35,45,27,50.4
+TX-51,DGA analysis suggests insulation failure. High CO2 and Acetylene.,"DGA re-analysis confirmed issue resolution, continued monitoring.",11566,4983,63,771,567,392,840,88,1.36,51,40,49,85.5
+TX-52,"Repeated gas level fluctuations, risk of multiple failures.","Cooling system inspected and enhanced, reducing overheating risk.",1928,420,225,1467,236,231,2483,52,1.26,51,55,44,74.7
+TX-53,"Sudden spike in nitrogen and methane, potential oil degradation.","Transformer re-energized with minor repairs, long-term monitoring advised.",10607,6447,269,4211,68,159,2747,25,3.12,20,50,29,76.3
+TX-54,"Power factor deterioration, possible transformer aging.",Performed oil regeneration and gas extraction.,13920,6932,53,2291,655,425,2851,84,1.25,53,50,43,95.6
+TX-55,High levels of Hydrogen and Methane indicate partial discharge.,Routine inspection suggested early intervention.,10076,4500,229,1703,560,91,2779,71,4.12,51,57,22,99.1
+TX-56,Severe overheating detected. Ethylene and CO levels rising.,"Insulation aging detected, transformer scheduled for replacement.",9955,8925,50,4191,231,281,1644,62,3.04,36,51,12,53.0
+TX-57,"Power factor deterioration, possible transformer aging.","Cooling system inspected and enhanced, reducing overheating risk.",5409,684,184,1293,805,301,1922,25,1.0,32,59,2,93.8
+TX-58,"Repeated gas level fluctuations, risk of multiple failures.","Conducted resistance and capacitance tests, no major issue found.",4703,9167,252,2031,972,64,2432,4,1.08,58,42,10,97.4
+TX-59,DGA analysis suggests insulation failure. High CO2 and Acetylene.,Routine inspection suggested early intervention.,13483,6511,130,3890,116,293,2915,21,3.59,58,41,18,84.9
+TX-60,"Repeated gas level fluctuations, risk of multiple failures.","Conducted resistance and capacitance tests, no major issue found.",8060,2725,38,3540,606,427,1405,11,3.37,28,45,11,94.9
+TX-61,Temperature anomalies suggest internal short-circuit.,Lowered transformer load and conducted infrared thermography.,13580,6182,408,2692,791,312,1112,8,1.87,48,49,31,54.4
+TX-62,Severe overheating detected. Ethylene and CO levels rising.,Replaced insulation and monitored gas levels.,10560,3828,118,1188,175,402,864,4,2.03,34,43,13,64.5
+TX-63,"Fluctuating interfacial voltage, potential arcing observed.","Insulation aging detected, transformer scheduled for replacement.",2609,2801,264,913,368,413,2067,6,0.97,52,46,34,66.5
+TX-64,"Fluctuating interfacial voltage, potential arcing observed.",Lowered transformer load and conducted infrared thermography.,4770,9478,243,4628,737,386,2878,49,4.55,50,45,7,69.1
+TX-65,Temperature anomalies suggest internal short-circuit.,Routine inspection suggested early intervention.,5590,696,230,1365,149,154,2337,69,1.38,60,52,14,69.1
+TX-66,"Excessive water content detected, risk of dielectric breakdown.","Cooling system inspected and enhanced, reducing overheating risk.",1849,966,453,4099,733,161,1943,46,3.43,41,52,38,79.4
+TX-67,Temperature anomalies suggest internal short-circuit.,"Conducted resistance and capacitance tests, no major issue found.",7197,7479,395,932,85,194,1065,25,1.95,40,54,1,85.5
+TX-68,"Fluctuating interfacial voltage, potential arcing observed.",Replaced insulation and monitored gas levels.,11921,9500,73,4404,725,199,2962,6,2.67,34,55,44,92.6
+TX-69,"Sudden spike in nitrogen and methane, potential oil degradation.","Insulation aging detected, transformer scheduled for replacement.",4556,966,342,4080,13,380,287,17,3.0,51,49,50,92.6
+TX-70,"CO levels rising gradually, potential core insulation wear.","Cooling system inspected and enhanced, reducing overheating risk.",12243,1424,469,4809,717,99,886,9,3.99,22,59,4,99.7
+TX-71,"CO levels rising gradually, potential core insulation wear.","Transformer re-energized with minor repairs, long-term monitoring advised.",11410,7223,495,3940,793,186,143,65,1.32,36,58,5,96.6
+TX-72,High levels of Hydrogen and Methane indicate partial discharge.,Replaced insulation and monitored gas levels.,12668,304,454,3893,78,53,2838,34,3.1,34,44,17,74.0
+TX-73,"Fluctuating interfacial voltage, potential arcing observed.",Performed oil regeneration and gas extraction.,9171,2458,346,2634,222,169,2342,56,2.35,36,57,0,78.9
+TX-74,High levels of Hydrogen and Methane indicate partial discharge.,"Transformer re-energized with minor repairs, long-term monitoring advised.",644,1593,166,4671,561,172,1241,49,4.21,38,57,32,51.3
+TX-75,"Excessive water content detected, risk of dielectric breakdown.",Carried out dielectric strength test and pressure relief.,13783,2863,273,3901,516,382,705,14,4.64,58,42,41,54.4
+TX-76,Severe overheating detected. Ethylene and CO levels rising.,Carried out dielectric strength test and pressure relief.,4445,5995,67,3233,109,387,1105,56,0.59,23,57,43,63.9
+TX-77,"Excessive water content detected, risk of dielectric breakdown.",Routine inspection suggested early intervention.,5233,2549,298,1488,998,19,1727,68,4.69,56,42,26,96.6
+TX-78,"Power factor deterioration, possible transformer aging.","Insulation aging detected, transformer scheduled for replacement.",269,8765,47,719,23,119,207,89,2.88,35,42,50,60.4
+TX-79,"Sudden spike in nitrogen and methane, potential oil degradation.","Insulation aging detected, transformer scheduled for replacement.",6088,2973,61,2323,36,390,1235,23,3.8,21,53,23,59.9
+TX-80,High levels of Hydrogen and Methane indicate partial discharge.,"DGA re-analysis confirmed issue resolution, continued monitoring.",3291,9486,88,789,646,340,799,34,1.5,57,51,49,55.1
+TX-81,"Repeated gas level fluctuations, risk of multiple failures.",Lowered transformer load and conducted infrared thermography.,2655,2482,394,4974,866,54,1555,42,2.48,49,58,5,97.5
+TX-82,"Repeated gas level fluctuations, risk of multiple failures.",Lowered transformer load and conducted infrared thermography.,13238,6533,148,3751,881,491,2079,21,2.13,54,53,34,65.5
+TX-83,"Power factor deterioration, possible transformer aging.","Cooling system inspected and enhanced, reducing overheating risk.",6643,7885,481,2430,600,351,1712,25,1.55,46,41,46,83.1
+TX-84,DGA analysis suggests insulation failure. High CO2 and Acetylene.,"Insulation aging detected, transformer scheduled for replacement.",5746,6407,271,1377,280,59,945,19,1.41,54,58,29,73.5
+TX-85,Severe overheating detected. Ethylene and CO levels rising.,Carried out dielectric strength test and pressure relief.,2603,5539,49,1759,214,389,1362,99,3.73,56,57,45,76.4
+TX-86,Severe overheating detected. Ethylene and CO levels rising.,Carried out dielectric strength test and pressure relief.,10212,846,198,3838,347,306,1971,83,0.73,26,52,19,68.4
+TX-87,"Fluctuating interfacial voltage, potential arcing observed.","DGA re-analysis confirmed issue resolution, continued monitoring.",3014,9960,157,4290,920,461,1953,41,4.04,35,59,8,77.1
+TX-88,"Excessive water content detected, risk of dielectric breakdown.","DGA re-analysis confirmed issue resolution, continued monitoring.",2152,8586,84,3974,85,445,2480,39,3.61,28,45,18,60.2
+TX-89,"Sudden spike in nitrogen and methane, potential oil degradation.",Carried out dielectric strength test and pressure relief.,8565,257,441,1370,761,169,359,94,2.31,58,45,25,69.0
+TX-90,"Sudden spike in nitrogen and methane, potential oil degradation.","DGA re-analysis confirmed issue resolution, continued monitoring.",5365,8005,458,1825,506,288,428,90,4.0,38,44,38,64.0
+TX-91,Severe overheating detected. Ethylene and CO levels rising.,"Transformer re-energized with minor repairs, long-term monitoring advised.",3024,6390,180,3668,521,390,2827,86,2.92,55,44,26,52.7
+TX-92,Temperature anomalies suggest internal short-circuit.,Carried out dielectric strength test and pressure relief.,6114,335,380,4272,769,370,1649,34,0.6,39,51,10,81.7
+TX-93,"Fluctuating interfacial voltage, potential arcing observed.","DGA re-analysis confirmed issue resolution, continued monitoring.",8473,2045,79,1212,533,188,1137,77,0.65,22,59,4,75.3
+TX-94,High levels of Hydrogen and Methane indicate partial discharge.,Carried out dielectric strength test and pressure relief.,13422,7267,232,1298,44,121,2193,63,2.78,29,44,45,80.9
+TX-95,High levels of Hydrogen and Methane indicate partial discharge.,Lowered transformer load and conducted infrared thermography.,11756,7476,344,4329,535,317,905,75,1.27,54,55,26,50.5
+TX-96,"Fluctuating interfacial voltage, potential arcing observed.","Conducted resistance and capacitance tests, no major issue found.",6504,3468,247,2428,400,57,1983,91,4.77,56,40,50,65.2
+TX-97,"Fluctuating interfacial voltage, potential arcing observed.",Lowered transformer load and conducted infrared thermography.,5971,5434,69,4123,925,261,733,76,3.66,25,48,10,84.4
+TX-98,"Excessive water content detected, risk of dielectric breakdown.","Insulation aging detected, transformer scheduled for replacement.",10697,3285,237,2796,292,66,2282,17,3.77,21,46,28,80.2
+TX-99,"CO levels rising gradually, potential core insulation wear.","Transformer re-energized with minor repairs, long-term monitoring advised.",10850,4648,155,1949,82,256,1138,36,3.59,44,48,4,52.7
+TX-100,Severe overheating detected. Ethylene and CO levels rising.,Routine inspection suggested early intervention.,10385,1951,493,4788,54,33,1195,7,4.83,29,56,12,58.1
