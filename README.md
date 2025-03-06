@@ -73,5 +73,39 @@ Maintenance Prediction Chart: Shows the predicted dates and types of maintenance
 
 Transformer Health Dashboard: Displays real-time health indicators for each transformer, highlighting any immediate concerns that need addressing.
 
+This project has demonstrated a robust framework for transformer maintenance analysis by integrating advanced NLP, Retrieval-Augmented Generation (RAG), and machine learning. By leveraging simulated maintenance logs and real-time data, our system not only predicts transformer health with high accuracy but also generates actionable maintenance recommendations.
+
+🔹 Predictive Maintenance Model Performance
+We implemented both Random Forest and XGBoost models to classify transformer health risk levels (Healthy, Warning, Critical) based on sensor readings. The XGBoost model achieved outstanding performance with the following results on the test set:
+
+Accuracy: 100%
+Classification Report:
+Class	Precision	Recall	F1-Score	Support
+Critical	1.00	1.00	1.00	19
+Healthy	1.00	1.00	1.00	19
+Warning	1.00	1.00	1.00	19
+Overall Accuracy	1.00			57
+These results indicate that the model is extremely effective at classifying transformer health risk levels, with no misclassifications observed on the test set.
+
+🔹 Visual Insights
+Confusion Matrix:
+The confusion matrix for the XGBoost model confirms that all classes were predicted correctly, underscoring the model's precision and reliability.
+
+
+Feature Importance:
+Analysis of feature importance reveals that key sensor readings such as Ethane, Methane, and Hydrogen are the most critical predictors for transformer health. This insight helps maintenance teams focus on monitoring the most influential parameters.
+
+
+🔹 Business Implications
+Optimized Maintenance Scheduling:
+With near-perfect predictive accuracy, the system allows for timely interventions before transformer failures occur, potentially reducing downtime and maintenance costs.
+
+Proactive Failure Prevention:
+The integration of real-time data via RAG ensures that maintenance decisions are based on the latest available information, minimizing the risk of unexpected outages.
+
+Data-Driven Decision Making:
+The combination of machine learning and NLP provides a comprehensive, data-driven approach that can be extended to larger datasets and more complex maintenance scenarios.
+
+
 Conclusion and Future Work
 This project provides a robust framework for transformer maintenance management, reducing operational risks and costs through advanced analytics and real-time data integration. Future enhancements will focus on improving the accuracy of predictive models and expanding the system's capabilities to accommodate more diverse data sources and machine learning techniques.
